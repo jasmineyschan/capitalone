@@ -1,0 +1,160 @@
+
+#announcement-bar {
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+#navbar {
+  width: 1158px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+}
+
+ul .nav-item {
+  font-size: 14px;
+  padding: 0 15px;
+}
+
+#sign-in-container {
+  background-color: #f4f4f4;
+  border-top: 1px solid lightgray;
+  font-size: 11px;
+}
+
+#input-field {
+  width: 256px;
+  height: 32px;
+}
+
+#sign-in-button {
+  background-color: #0276B1;
+  border: none;
+  color: white;
+  font-weight: bold;
+  width: 160px;
+  height: 32px;
+  font-size: 14px;
+}
+
+#sign-in-button:hover {
+  background-color: #026597;
+  cursor: pointer;
+}
+
+.bg-image {
+  background-image: url('/images/hero.avif');
+  background-size: cover;
+  background-position: center;
+}
+
+#get-started-container {
+  width: 1216px;
+  padding: 80px 0 80px 50px;
+}
+
+#get-started-box {
+  height: 333px;
+  width: 448px;
+}
+
+#get-started-button {
+  background-color: #0276B1;
+  border: none;
+  color: white;
+  font-weight: bold;
+  width: 130px;
+  height: 48px;
+  font-size: 18px;
+}
+
+#get-started-button:hover {
+  background-color: #026597;
+  cursor: pointer;
+}
+
+a.link-underline {
+  text-decoration: none;
+  color: #0276B1;
+}
+
+a.link-underline:hover {
+  text-decoration: underline;
+  text-decoration-color: #0276B1;
+  color: #0276B1;
+  cursor: pointer;
+}
+
+#help {
+  background-color: #f4f4f4;
+}
+
+#help-text {
+  font-size: 48px;
+}
+
+.link {
+  color: #0276B1;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid #0276B1;
+}
+
+#suggestions-button {
+  background-color: #0276B1;
+  border: none;
+  color: white;
+  font-weight: bold;
+  width: 175px;
+  height: 48px;
+  font-size: 18px;
+}
+
+#suggestions-button:hover {
+  background-color: #026597;
+  cursor: pointer;
+}
+
+#checker {
+  height: 575px;
+}
+
+#checker-text-right {
+  padding: 100px 200px 100px 100px;
+}
+
+#checker-text-left {
+  padding: 100px 100px 100px 200px;
+}
+
+#more-than-bank {
+  background-color: #f4f4f4;
+}
+
+#more-than-bank .card {
+  width: 352px;
+  height: 352px;
+  border-radius: 0;
+  filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.25));
+}
+
+#footer1 {
+  background-color: #3D3D3D;
+}
+
+#footer2 {
+  background-color: #525252;
+  font-size: 11px;
+  color: white;
+}
+
+#footer3 {
+  font-size: 12px;
+}
+
+#footer-container {
+  width: 1120px;
+}
