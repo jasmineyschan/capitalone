@@ -1,2 +1,2 @@
 # capitalone
-E36: Your Choice with Bootstrap 5
+Recreation of [Capital One](https://www.capitalone.com/) home page using Bootstrap 5
